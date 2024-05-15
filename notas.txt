@@ -1,0 +1,6 @@
+ul se utiliza para crear una lista no ordenada
+y la etiqueta li se utiliza para crear cada elemento o 
+cadena de elementos en la lista
+
+object-fit: es una propiedad para imagenes y videos que indica
+como debería redimensionarse para ajustarse a su contenedor
